@@ -7,3 +7,4 @@
 The difference between a text file and a markdown file is that a markdown file allows you to style text by boldening it, italicizing it,
 underlining it, using headers, and more. You cannot do this in a regular text file, you can only write plain text. 
 
+The name of the repository I created is called "CS350practice".
